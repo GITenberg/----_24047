@@ -1,0 +1,30 @@
+_repo: '----_24047'
+_version: 0.1.0
+alternative_title: Shi Shuo Xin Yu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Liu, Yiqing
+    alias: 劉義慶
+    birthdate: 403
+    deathdate: 444
+    gutenberg_agent_id: '26197'
+    url: http://www.gutenberg.org/2009/agents/26197
+    wikipedia: http://zh.wikipedia.org/wiki/%E5%8A%89%E7%BE%A9%E6%85%B6
+description: ''
+gutenberg_issued: '2007-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24047'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- History -- Three kingdoms, 220-265 -- Anecdotes'
+- !lcc 'DS'
+- !lcsh 'China -- History -- Jin dynasty, 265-419 -- Anecdotes'
+title: 世說新語
+url: http://www.gutenberg.org/ebooks/24047
